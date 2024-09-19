@@ -1,4 +1,4 @@
-# Geospatial Data Carpentry for Urbanism
+# Geospatial Data Carpentry for Agronomy
 
 ## Lesson Description
 
@@ -13,7 +13,7 @@ Version 1.0
 
 ## Contact Information
 
-[Rbanism Community](mailto:rbanism@tudelft.nl)
+[GIS4Agro Community](mailto:ializarazos@unal.edu.co)
 
 ## Contributing Information
 
@@ -21,7 +21,7 @@ Please see the [CONTRIBUTING page](https://github.com/carpentries-incubator/r-ge
 
 ## Credits / Acknowledgements
 
-This lesson was developed by:
+The original lesson was developed by:
 
 - [Claudiu Forgaci](https://github.com/cforgaci)
 - [Clémentine Cottineau](https://github.com/ClementineCttn)
@@ -48,9 +48,9 @@ Please see the [CITATION page](https://github.com/carpentries-incubator/r-geospa
 
 ## License
 
-The Geospatial Data Carpentry for Urbanism lesson, like most other software provided by The Carpentries, are made available under the OSI-approved MIT license. Please see the [LICENSE page](https://github.com/carpentries-incubator/r-geospatial-urban/blob/main/LICENSE.md) for further information.
+This lesson, like most other software provided by The Carpentries, are made available under the OSI-approved MIT license. Please see the [LICENSE page](https://github.com/carpentries-incubator/r-geospatial-urban/blob/main/LICENSE.md) for further information.
 
 ## Rendered Version of This Lesson
 
-https://carpentries-incubator.github.io/r-geospatial-urban/
+https://ials.github.io/GB2024/
 
