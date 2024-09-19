@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Geospatial Data Carpentry for Urbanism'
+title: 'Geomatics for Agronomy'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created:
@@ -27,13 +27,13 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries-incubator/r-geospatial-urban'
+source: 'https://github.com/ials/GB2024'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'rbanism@tudelft.nl'
+contact: 'ializarazos@unal.edu.co'
 
 # Navigation ------------------------------------------------
 #
