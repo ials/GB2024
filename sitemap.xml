@@ -67,6 +67,12 @@
     <loc>https://ials.github.io/GB2024/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://ials.github.io/GB2024/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://ials.github.io/GB2024/images.html</loc>
+  </url>
+  <url>
     <loc>https://ials.github.io/GB2024/index.html</loc>
   </url>
   <url>
@@ -127,13 +133,31 @@
     <loc>https://ials.github.io/GB2024/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://ials.github.io/GB2024/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://ials.github.io/GB2024/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://ials.github.io/GB2024/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ials.github.io/GB2024/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ials.github.io/GB2024/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://ials.github.io/GB2024/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://ials.github.io/GB2024/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://ials.github.io/GB2024/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ials.github.io/GB2024/key-points.html</loc>
   </url>
   <url>
     <loc>https://ials.github.io/GB2024/local-data-guidelines.html</loc>
