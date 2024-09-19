@@ -1,0 +1,1 @@
+sandpaper::ci_deploy(md_branch = "md-outputs", site_branch = "gh-pages")
