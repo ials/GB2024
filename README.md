@@ -3,9 +3,9 @@
 ## Lesson Description
 
 This lesson is an introduction to working with raster and vector data in R for 
-researchers in urbanism or related fields. After a brief introduction to R, it 
+researchers in agriculture or related fields. After a brief introduction to R, it 
 focuses on vector and raster data and their use in practical GIS operations on
-urban datasets.
+several datasets.
 
 ## Rendered Version of This Lesson
 
